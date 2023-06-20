@@ -8,4 +8,17 @@
 ### [Click here to access](https://caiogvm.github.io/grid_animation)
 </br>
 
-## ⚙ Ferramentas
+## ⚙ Tools
+- HTML5
+- CSS3
+
+## 📚 What I learned
+- Responsivity with Media Queries
+- Grid Layout
+- Animations with Keyframes
+
+## 📞 Talk to me
+
+- caiovalim12@gmail.com
+
+- [LinkedIn](https://linkedin.com/in/caiovalim)
